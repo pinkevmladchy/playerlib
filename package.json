@@ -1,0 +1,14 @@
+{
+    "name": "player",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "hls.js": "^0.13.3-canary.5704"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": ""
+}
